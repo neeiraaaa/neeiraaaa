@@ -1,5 +1,5 @@
-### Добро пожаловать! :cherry_blossom:
-Меня зовут Ирина. Я - инженер по тестированию программного обеспечения.</br>
+### Добро пожаловать! :slightly_smiling_face:
+Меня зовут Ирина. Я - инженер по тестированию программного обеспечения :woman_technologist: </br>
 
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeiraaaa
@@ -35,18 +35,17 @@
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/neeiraaaa/qa_guru_pageObjects_3_9">UI_tests</a></br></br>
 :heavy_check_mark: Реализованы автотесты UI на сайт DEMOQA </br></br>
-:triangular_flag_on_post: Что особенного:
+:round_pushpin: Что особенного:
 
 - [x] Page Object
 - [x] Инкапсуляция
 - [x] Интеграция с Allure report
 
 
-
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/neeiraaaa/qa_quru_api_4">API_tests</a></br></br>
 :heavy_check_mark: Реализованы автотесты Rest API на reqres.in и demowebshop.tricentis.com.</br></br>
-:triangular_flag_on_post: Что особенного:
+:round_pushpin: Что особенного:
 
 - [x] Шаблоны форматирования логов запросов
 - [x] Проверка ответа сайта через Shema
@@ -62,7 +61,7 @@ pytest tests/test_reqres.py --env=prod
 ## Тестирование мобильного приложения
 :link: Тестовый проект: <a target="_blank" href="https://github.com/neeiraaaa/qa_quru_Android_Studio">Mobile_tests</a></br></br>
 :heavy_check_mark: Реализованы автотесты мобильного приложения Wikipedia на эмуляторе мобильного устройства.</br></br>
-:triangular_flag_on_post: Что особенного:
+:round_pushpin: Что особенного:
 
 - [x] Интеграция с Browserstack
 - [x] Степовой подход для описания Allure Step
