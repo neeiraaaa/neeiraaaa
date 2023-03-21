@@ -10,7 +10,7 @@
   Email: neeiraaaa@gmail.com
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/neeiraaaa"><img width="37px" alt="Telegram" title="Telegram" src="./images/icons/Telegram.svg"/></a>
+  <a href="https://t.me/neeiraaaa"><img width="37px" alt="Telegram" title="Telegram" src="./images/icons/tg.png"/></a>
   &#8287;
 
 </p>
@@ -18,15 +18,14 @@
 ## 💻Стек и инструменты
 
 <p  align="center">
-  <code><img width="5%" title="Python" src=".images/icons/python.png"></code>
+  <code><img width="5%" title="Python" src="./images/icons/python.png"></code>
   <code><img width="5%" title="PyCharm" src="./images/icons/pycharm.png"></code>
   <code><img width="6%" title="Pytest" src="./images/icons/pytest.png"></code>
   <code><img width="6%" title="Selene" src="./images/icons/selene.png"></code>
   <code><img width="5%" title="Allure Report" src="./images/icons/allure_report.png"></code>
   <code><img width="5%" title="Github" src="./images/icons/Git-Logo-Black.png"></code>
   <code><img width="5%" title="Jenkins" src="./images/icons/jenkins.png"></code>
-  <code><img width="5%" title="Selenoid" src=".images/icons/selenoid.png"></code>
-  <code><img width="5%" title="Telegram" src="./images/icons/tg.png"></code>
+  <code><img width="5%" title="Selenoid" src="./images/icons/selenoid.png"></code>
   <code><img width="5%" title="Appium" src="./images/icons/Appium-01.png"></code>
   <code><img width="5%" title="Selenium" src="./images/icons/selenium.png"></code>
   <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.png"></code>
@@ -46,10 +45,9 @@
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/neeiraaaa/qa_quru_api_4">API_tests</a></br></br>
-:heavy_check_mark: Реализованы автотесты Rest Api на reqres.in и demowebshop.tricentis.com.</br></br>
+:heavy_check_mark: Реализованы автотесты Rest API на reqres.in и demowebshop.tricentis.com.</br></br>
 :triangular_flag_on_post: Что особенного:
 
-- [x] Инкапсулирована обращение к URL
 - [x] Шаблоны форматирования логов запросов
 - [x] Проверка ответа сайта через Shema
 - [x] Управление конфигом через pytest
