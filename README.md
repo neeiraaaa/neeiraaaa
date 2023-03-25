@@ -40,23 +40,19 @@
 - [x] Page Object
 - [x] Инкапсуляция
 - [x] Интеграция с Allure report
+- [x] Интеграция с Jenkins
+- [x] Интеграция с Selenoid
 
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/neeiraaaa/qa_quru_api_4">API_tests</a></br></br>
-:heavy_check_mark: Реализованы автотесты Rest API на reqres.in и demowebshop.tricentis.com.</br></br>
+:heavy_check_mark: Реализованы автотесты Rest API на reqres.in.</br></br>
 :round_pushpin: Что особенного:
 
 - [x] Шаблоны форматирования логов запросов
-- [x] Проверка ответа сайта через Shema
 - [x] Управление конфигом через pytest
-
-
-## :computer: Запуск тестов из терминала
-```bash
-pytest tests/test_demoshop.py --env=prod
-pytest tests/test_reqres.py --env=prod
-```
+- [x] Интеграция с Allure report
+- [x] Интеграция с Jenkins
 
 ## Тестирование мобильного приложения
 :link: Тестовый проект: <a target="_blank" href="https://github.com/neeiraaaa/qa_quru_Android_Studio">Mobile_tests</a></br></br>
