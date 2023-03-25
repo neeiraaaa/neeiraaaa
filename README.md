@@ -40,8 +40,6 @@
 - [x] Page Object
 - [x] Инкапсуляция
 - [x] Интеграция с Allure report
-- [x] Интеграция с Jenkins
-- [x] Интеграция с Selenoid
 
 
 ## Тестирование REST API
