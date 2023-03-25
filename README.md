@@ -40,7 +40,7 @@
 - [x] Page Object
 - [x] Инкапсуляция
 - [x] Интеграция с Allure report
-- [x] Интеграция с jenkins
+- [x] Интеграция с Jenkins
 - [x] Интеграция с Selenoid
 
 
