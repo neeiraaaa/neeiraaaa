@@ -33,13 +33,15 @@
 </p>
 
 ## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/neeiraaaa/qa_guru_pageObjects_3_9">UI_tests</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/neeiraaaa/qa_quru_jenkins">UI_tests</a></br></br>
 :heavy_check_mark: Реализованы автотесты UI на сайт DEMOQA </br></br>
 :round_pushpin: Что особенного:
 
 - [x] Page Object
 - [x] Инкапсуляция
 - [x] Интеграция с Allure report
+- [x] Интеграция с jenkins
+- [x] Интеграция с Selenoid
 
 
 ## Тестирование REST API
