@@ -63,9 +63,3 @@
 - [x] Степовой подход для описания Allure Step
 - [x] Различные файлы конфигураций для запуска тестов
 
-## :computer: Запуск тестов из терминала
-```bash
-env -S "context=browserstack" pytest .
-env -S "context=emulation" pytest .
-```
-
